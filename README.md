@@ -9,4 +9,6 @@ I'm learning Git, GitHub, and GitHub CLI.
 - Branches
 - Remote repositories
 - Git Learning Project
+## Branches
 
+A branch is an independent line of development in Git.
