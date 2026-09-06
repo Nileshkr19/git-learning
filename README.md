@@ -1,4 +1,4 @@
-# Git Learning Project
+# Git MAstery Project
 
 I'm learning Git, GitHub, and GitHub CLI.
 
