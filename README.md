@@ -15,3 +15,7 @@ A branch is an independent line of development in Git.
 ## Team Development
 
 This change was made from another local repository.
+
+## Revert Practice
+
+This commit will be reverted.
