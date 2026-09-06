@@ -12,3 +12,6 @@ I'm learning Git, GitHub, and GitHub CLI.
 ## Branches
 
 A branch is an independent line of development in Git.
+## Team Development
+
+This change was made from another local repository.
